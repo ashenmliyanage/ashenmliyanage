@@ -5,7 +5,7 @@
 </div>
 <div align="center">
 <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi,+I'm+Ashen+Madhushanka+;Welcome+to+My+Profile!"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=600&lines=I'm+Ashen+Madhushanka+;Welcome+to+My+Profile!"
          alt="Title"/>
 </div>
 <hr>
